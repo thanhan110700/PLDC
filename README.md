@@ -1,9 +1,5 @@
 # PLDC
-QN=1 Trong chủ nghĩa Mác - Lênin, bộ phận lý luận nào có chức năng làm sáng tỏ bản chất và những quy luật chung nhất của mọi sự vận động, phát triển của thế giới là :
-a. Triết học Mác - Lênin
-b. Kinh tế chính trị Mác - Lênin
-c. Chủ nghĩa xã hội khoa học
-d. Không có bộ phận nào giữ chức năng đó vì chủ nghĩa Mác - Lênin thuộc khoa học xã hội - A
+
 QN=2 Khái niệm: "những nguyên lý cơ bản của chủ nghĩa Mác - Lênin" là chỉ:
 a. Những quan điểm cơ bản của chủ nghĩa Mác - Lênin
 b. Những quan điểm cơ bản, nền tảng của chủ nghĩa Mác - Lênin
