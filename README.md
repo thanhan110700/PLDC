@@ -2,12 +2,7 @@
 
 QN=2 Khái niệm: "những nguyên lý cơ bản của chủ nghĩa Mác - Lênin" là chỉ:
 a. Những quan điểm cơ bản của chủ nghĩa Mác - Lênin
-b. Những quan điểm cơ bản, nền tảng của chủ nghĩa Mác - Lênin
-c. Những quan điểm mang tình chất chân lý bền vững của chủ nghĩa Mác - Lênin
-d. Những quan điểm cơ bản, nền tảng và có tính chất chân lý bền vững của chủ nghĩa Mác - Lênin - D
-QN=3 Trong tác phẩm kinh điển sau đây, tác phẩm nào được đánh giá là văn kiện đầu tiên có tính cương lĩnh của chủ nghĩa Mác, thể hiện sự chín muồi về mặt thế giới quan mới của C. Mác và Ăngghen: 
-a. Gia đình thần thánh (1845)
-b. Hệ tư tưởng Đức (1845 - 1846)
+
 c. Luận cương về L. Phoiơbắc (1845)
 d. Tuyên ngôn của đảng cộng sản (1848) - D
 QN=4 Trong các câu hỏi sau đây, câu hỏi nào là biến thể của cách diễn đạt vấn đề cơ bản của triết học: Não người đã phát triển như thế nào?
